@@ -1,0 +1,38 @@
+.heading{
+font-size:25px;
+width:100%;
+border:1px outset rgb(0, 0, 0);
+margin:0px;
+color:aliceblue;
+background-color:gray;
+}
+.subtitulo{
+font-size:18px ;
+
+}
+.div_speed{
+float: left;
+margin:15px;
+}
+.div_speed_img,.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed,#volume{
+font-size:23px ;
+margin:15px;
+
+}
+.volume{
+float:right ;
+margin:15px ;
+}
+.play_buttom{
+    width:130px ;
+    font-size:20px ;
+}
+canvas{
+border-radius:20px ;
+border:5px outset black
+
+}
